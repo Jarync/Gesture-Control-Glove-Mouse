@@ -65,13 +65,6 @@ Scrolling is a compound gesture involving two sensors:
     * $a_z < -0.5g$ (Palm Down) $\rightarrow$ **Scroll Down**
 
 ---
-## 📸 Prototype Gallery
-
-### 1. Hardware Setup
-
-<img width="527" height="240" alt="屏幕截图 2025-11-23 221910" src="https://github.com/user-attachments/assets/9a34b603-7c09-44e0-b278-4103cbb698da" />
-
----
 
 ## 🚀 How to Run
 
@@ -83,6 +76,14 @@ Scrolling is a compound gesture involving two sensors:
     * Move the board to move the cursor.
     * Press buttons to click.
     * Bend the sensor and flip your hand to scroll.
+
+---
+
+## 📸 Prototype Gallery
+
+### 1. Hardware Setup
+
+<img width="527" height="240" alt="屏幕截图 2025-11-23 221910" src="https://github.com/user-attachments/assets/9a34b603-7c09-44e0-b278-4103cbb698da" />
 
 ---
 
