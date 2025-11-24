@@ -84,6 +84,8 @@ Scrolling is a compound gesture involving two sensors:
 
 <img width="527" height="240" alt="屏幕截图 2025-11-23 221910" src="https://github.com/user-attachments/assets/9a34b603-7c09-44e0-b278-4103cbb698da" />
 
+<img width="1080" height="1920" alt="png" src="https://github.com/user-attachments/assets/1b91ac73-c99b-43be-b748-a385dbf1171e" />
+
 ---
 
 ## ©️ Intellectual Property & License
