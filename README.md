@@ -39,8 +39,7 @@ It utilizes the **Arduino HID (Human Interface Device)** protocol, meaning it is
 
 The following Fritzing diagram illustrates the connection between the MPU6050 (I2C), Flex Sensor (Analog Divider), and Buttons (Digital Pull-up).
 
-![mouse_bb3](https://github.com/user-attachments/assets/b54aa7a5-c363-4b93-9dfc-721be46e2420)
-
+<img width="8200" height="11530" alt="mouse_bb" src="https://github.com/user-attachments/assets/ecf3ad27-fa06-41ef-bc4b-4d8cf0d42323" />
 
 ### Pin Configuration
 * **MPU6050:** VCC -> 5V, GND -> GND, SDA -> SDA (D2), SCL -> SCL (D3)
